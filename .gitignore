@@ -1,0 +1,24 @@
+# NetBeans
+nbproject/private/
+
+# Diretórios de build
+build/
+dist/
+
+# Arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
